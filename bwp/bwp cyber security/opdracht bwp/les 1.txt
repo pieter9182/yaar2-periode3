@@ -1,0 +1,13 @@
+naam ding = Book
+naAM VAN DE CLASS IN PHP: book 
+
+naam eigenschap = letters , pages , title , 
+
+datatype = longtext , img , date ,
+
+regels? = leter type , min pages , 
+
+naam van gedrag = read , learn ,
+
+parameters = reading book (person), showcasing (shelf)
+
